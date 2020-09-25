@@ -1,0 +1,2 @@
+# SolutionsInGolangTour
+My solutions
